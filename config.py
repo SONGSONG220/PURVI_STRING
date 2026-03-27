@@ -15,4 +15,4 @@ OWNER_ID = int(getenv("OWNER_ID", "7812646657"))
 MUST_JOIN = getenv("MUST_JOIN", "botbykilwakillua")
 
 # Database URI
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://vivek:1234567890@cluster0.c48d8ih.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://aditya0:aditya0@cluster0.9m8897t.mongodb.net/?appName=Cluster0")
